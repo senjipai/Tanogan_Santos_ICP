@@ -1,6 +1,6 @@
 {
     "canisters": {
-        "icp_simple_site": {
+        "dashboard_site": {
             "frontend": {
                 "entrypoint": "src/index.html"
             },
